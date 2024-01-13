@@ -1,4 +1,4 @@
-# Airline Prices Prediction Project
+# Airlines Price Prediction Project
 
 # Overview
 This project focuses on predicting airline prices using a machine learning approach. The RandomForestRegressor model was employed for its ability to handle non-linear relationships and capture complex patterns in the dataset.
